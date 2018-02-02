@@ -1,2 +1,2 @@
 # Pyschic-Game
-first javascript repository
+This is a simple Pyschic Game made using html, css, and basic javascript.
